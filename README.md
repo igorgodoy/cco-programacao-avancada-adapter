@@ -43,7 +43,7 @@ Atividade padrão de projeto - **Adapter**.
 
 ### Implementação
 
-- [Implementação](https://github.com/igorgodoy/cco-programacao-avancada-adapter/tree/main/example) onde temos uma interface MediaPlayer e uma classe concreta AudioPlayer implementando a interface MediaPlayer. AudioPlayer pode reproduzir arquivos de áudio no formato mp3 por padrão.
+[Implementação](https://github.com/igorgodoy/cco-programacao-avancada-adapter/tree/main/example) onde temos uma interface MediaPlayer e uma classe concreta AudioPlayer implementando a interface MediaPlayer. AudioPlayer pode reproduzir arquivos de áudio no formato mp3 por padrão.
 
 Em contrapartida, temos outra interface AdvancedMediaPlayer e classes concretas implementando a interface AdvancedMediaPlayer. Essas classes podem reproduzir arquivos de formato vlc e mp4.
 
